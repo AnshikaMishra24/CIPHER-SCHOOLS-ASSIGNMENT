@@ -45,6 +45,7 @@ A modern, powerful browser-based IDE for building React applications with live p
    npm run dev
    \`\`\`
 4. Open [http://localhost:3000](http://localhost:3000)
+5. project https://3000-i579r8lkp7ufxvwdkmtfc-0e616f0a.sandbox.novita.ai/
 
 ### Usage
 
